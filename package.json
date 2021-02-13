@@ -32,6 +32,7 @@
     "electron-dl": "^1.11.0",
     "electron-settings": "^3.1.4",
     "ini": "^2.0.0",
+    "lodash": "^4.17.20",
     "turndown": "^5.0.1"
   },
   "devDependencies": {
