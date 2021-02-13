@@ -12,12 +12,6 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://travis-ci.org/klaussinani/tusk">
-    <img alt="Build Status" src="https://travis-ci.org/klaussinani/tusk.svg?branch=master">
-  </a>
-</p>
-
 ## Description
 
 Tusk is an unofficial, featureful, open source, community-driven, free Evernote app used by people in more than [140 countries](https://snapcraft.io/tusk).
