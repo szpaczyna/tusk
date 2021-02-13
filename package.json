@@ -1,10 +1,11 @@
 {
   "name": "tusk",
   "productName": "Tusk",
-  "version": "0.24.0",
+  "version": "0.24.1",
   "description": "Refined Evernote desktop app",
   "license": "MIT",
-  "repository": "klaussinani/tusk",
+  "homepage": "https://gitea.shpaq.org",
+  "repository": "shpaq/tusk",
   "author": {
     "name": "Klaus Sinani",
     "email": "klaussinani@gmail.com",
@@ -20,7 +21,7 @@
   "scripts": {
     "postinstall": "electron-builder install-app-deps",
     "test": "xo && stylelint 'src/style/*.css'",
-    "release": "electron-builder --publish never",
+    "release": "electron-builder --publish always",
     "start": "electron ."
   },
   "dependencies": {
