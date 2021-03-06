@@ -58,18 +58,6 @@ You can find more apps [here](#related-apps).
 
 Head to the [releases](https://github.com/klaussinani/tusk/releases/latest) page and download the appropriate installer for your system.
 
-#### Snapcraft
-
-Ubuntu Linux users can directly install through [Snapcraft](https://snapcraft.io/tusk) `snap install tusk`
-
-#### Homebrew
-
-Macos users can directly install through [Homebrew Cask](https://caskroom.github.io/) `brew cask install tusk`
-
-#### Note
-
-The version available on `Homebrew Cask` may not be the latest, since unlike `Snapcraft`, it is not offically maintained. If that is the case, please consider downloading directly from the [Github releases](https://github.com/klaussinani/tusk/releases/latest) page.
-
 ## Features
 
 Visit the project [homepage](https://klaussinani.github.io/tusk) to view all features in detail.
@@ -195,16 +183,14 @@ For more info on how to contribute to the project, please read the [contributing
 - Lint code for errors: `npm test` or `yarn test`
 - Build binaries and installers: `npm run release` or `yarn release`
 
-## Related Apps
-
-- [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app.
-- [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
-
-## Team
+## Original Team
 
 - Klaus Sinani [(@klaussinani)](https://github.com/klaussinani)
 - Mario Sinani [(@mariosinani)](https://github.com/mariosinani)
 - Athan Gkanos [(@athangkanos)](https://github.com/athangkanos)
+
+## Recently maintained by:
+- Michał 'shpaq' Laszuk [(@szpaczyna)](https;//github.com/szpaczyna)
 
 ## Disclaimer
 

@@ -1,7 +1,7 @@
 {
   "name": "tusk",
   "productName": "Tusk",
-  "version": "0.24.1",
+  "version": "0.24.2",
   "description": "Refined Evernote desktop app",
   "license": "MIT",
   "homepage": "https://gitea.shpaq.org",
@@ -13,9 +13,8 @@
   },
   "maintainers": [
     {
-      "name": "Mario Sinani",
-      "email": "mariosinani@protonmail.ch",
-      "url": "https://github.com/mariosinani"
+      "name": "Michal 'shpaq' Lasuzk",
+      "email": "shpaq@shpaq.org"
     }
   ],
   "scripts": {
@@ -37,7 +36,7 @@
     "turndown": "^5.0.1"
   },
   "devDependencies": {
-    "electron": "^11.2.3",
+    "electron": "^12.0.0",
     "electron-builder": "21.2.0",
     "stylelint": "^9.9.0",
     "xo": "*"
