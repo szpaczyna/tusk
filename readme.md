@@ -190,7 +190,7 @@ For more info on how to contribute to the project, please read the [contributing
 - Athan Gkanos [(@athangkanos)](https://github.com/athangkanos)
 
 ## Recently maintained by:
-- Michał 'shpaq' Laszuk [(@szpaczyna)](https;//github.com/szpaczyna)
+- Michał 'shpaq' Laszuk [(@szpaczyna)](https://github.com/szpaczyna)
 
 ## Disclaimer
 
