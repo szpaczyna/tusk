@@ -13,7 +13,7 @@
   },
   "maintainers": [
     {
-      "name": "Michal 'shpaq' Lasuzk",
+      "name": "Michal 'shpaq' Laszuk",
       "email": "shpaq@shpaq.org"
     }
   ],
@@ -36,9 +36,9 @@
     "turndown": "^5.0.1"
   },
   "devDependencies": {
-    "electron": "^12.0.0",
+    "electron": "^12.0.2",
     "electron-builder": "21.2.0",
-    "stylelint": "^9.9.0",
+    "stylelint": "^13.12.0",
     "xo": "*"
   },
   "xo": {
