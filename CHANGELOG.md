@@ -1,3 +1,9 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [0.24.4](https://github.com/shpaq/tusk/compare/v0.24.3...v0.24.4) (2021-05-06)
+
 * [version bump, updated electron and other deps, added mysefl as temporary maintainer](commit/09fbcee8d5f3f07ed5b667e8b85af971feb6a289)
 * [readme](commit/44fe64cb2f5820562d036f6f072e38815fc3e407)
 * [dsad](commit/f12656d9edee2c75be0dc747b89adf201388111f)
