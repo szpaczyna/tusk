@@ -1,7 +1,7 @@
 {
   "name": "tusk",
   "productName": "Tusk",
-  "version": "0.24.2",
+  "version": "0.24.3",
   "description": "Refined Evernote desktop app",
   "license": "MIT",
   "homepage": "https://gitea.shpaq.org",
@@ -37,7 +37,7 @@
     "turndown": "^5.0.1"
   },
   "devDependencies": {
-    "electron": "^12.0.2",
+    "electron": "^12.0.6",
     "electron-builder": "21.2.0",
     "stylelint": "^13.12.0",
     "xo": "*"
