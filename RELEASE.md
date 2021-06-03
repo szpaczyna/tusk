@@ -1,0 +1,5 @@
+* [feat: deps versiom bump](https://github.com/szpaczyna/tusk/commit/bf8e900bb94f8389d2d433823b993abca0a80bf1)
+* [update deps](https://github.com/szpaczyna/tusk/commit/d195e7d835b73a9a71bf5a0286d9a7d241f09955)
+* [Merge branch 'master' of github.com:szpaczyna/tusk](https://github.com/szpaczyna/tusk/commit/eecd794eeccd80d3bedee5f234b63099ad22af84)
+* [foo](https://github.com/szpaczyna/tusk/commit/b7702160e59f42bbb5f6e795a8bc7f1be2783e89)
+* [Update readme.md](https://github.com/szpaczyna/tusk/commit/d42ffa13e065ed09e02ca1dfdf17770c93612b3e)
