@@ -1861,13 +1861,21 @@ electron-debug@^1.3.0:
     electron-is-dev "^0.3.0"
     electron-localshortcut "^3.0.0"
 
-electron-dl@^1.11.0, electron-dl@^1.2.0:
+electron-dl@^1.2.0:
   version "1.14.0"
   resolved "https://registry.npmjs.org/electron-dl/-/electron-dl-1.14.0.tgz"
   dependencies:
     ext-name "^5.0.0"
     pupa "^1.0.0"
     unused-filename "^1.0.0"
+
+electron-dl@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/electron-dl/-/electron-dl-3.2.1.tgz#244a1316c663691f70e8aa4515cd1a401b4b5690"
+  dependencies:
+    ext-name "^5.0.0"
+    pupa "^2.0.1"
+    unused-filename "^2.1.0"
 
 electron-is-accelerator@^0.1.0:
   version "0.1.2"
@@ -5103,7 +5111,7 @@ pupa@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/pupa/-/pupa-1.0.0.tgz"
 
-pupa@^2.1.1:
+pupa@^2.0.1, pupa@^2.1.1:
   version "2.1.1"
   resolved "https://registry.npmjs.org/pupa/-/pupa-2.1.1.tgz"
   dependencies:
@@ -6294,6 +6302,13 @@ unused-filename@^1.0.0:
   dependencies:
     modify-filename "^1.1.0"
     path-exists "^3.0.0"
+
+unused-filename@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/unused-filename/-/unused-filename-2.1.0.tgz#33719c4e8d9644f32d2dec1bc8525c6aaeb4ba51"
+  dependencies:
+    modify-filename "^1.1.0"
+    path-exists "^4.0.0"
 
 update-notifier@^3.0.1:
   version "3.0.1"
