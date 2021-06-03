@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [0.24.3](https://github.com/shpaq/tusk/compare/v0.24.3...v0.24.4) (2021-06-03)
+### [0.24.4](https://github.com/shpaq/tusk/compare/v0.24.3...v0.24.4) (2021-06-03)
 
 * [fix: bump electron*](commit/01c5c3796acee77c6588d27a490683d1d17ffd9e)
 * [Merge pull request #4 from szpaczyna/dependabot/npm_and_yarn/xo-0.40.2](commit/4fcc4d881c3b89e6774146dd5476871896cd76b8)
