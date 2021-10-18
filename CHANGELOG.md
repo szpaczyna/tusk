@@ -1,6 +1,16 @@
-# Changelog
+# Changelog for Szpacze Gniazdo K3s
+### [0.24.6](https://github.com/shpaq/tusk/compare/v0.24.4...v0.24.6) (2021-10-18)
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### Features
+
+* npm and turndown version bump ([807912f](https://github.com/shpaq/tusk/commit/807912f0e67a5c485ace9a64a28a090be74ae2f1))
+* npm and turndown version bump ([b4a81d1](https://github.com/shpaq/tusk/commit/b4a81d141f55bd1e28aab9e5f2249a9dedb3e3d2))
+
+
+### Bug Fixes
+
+* electron, acorn, npm, xo versions bump ([2d0e8df](https://github.com/shpaq/tusk/commit/2d0e8dfc44b581cefe5ce5245b1e720cc8a4c1d0))
 
 ### [0.24.4](https://github.com/shpaq/tusk/compare/v0.24.3...v0.24.4) (2021-06-03)
 
