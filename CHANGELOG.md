@@ -1,5 +1,5 @@
 # Changelog for Szpacze Gniazdo K3s
-### [0.24.6](https://github.com/shpaq/tusk/compare/v0.24.4...v0.24.6) (2021-10-18)
+### [0.24.5](https://github.com/shpaq/tusk/compare/v0.24.4...v0.24.5) (2021-10-18)
 
 
 ### Features
