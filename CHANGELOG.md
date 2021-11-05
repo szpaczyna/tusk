@@ -1,4 +1,14 @@
-# Changelog for Szpacze Gniazdo K3s
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [0.24.6](https://github.com/shpaq/tusk/compare/v0.24.5...v0.24.6) (2021-11-05)
+
+
+### Features
+
+* electron,stylelint version bump ([d9ca30b](https://github.com/shpaq/tusk/commit/d9ca30bd14f1fc8d3bc0a93486cac9394dd4a755))
+
 ### [0.24.5](https://github.com/shpaq/tusk/compare/v0.24.4...v0.24.5) (2021-10-18)
 
 
