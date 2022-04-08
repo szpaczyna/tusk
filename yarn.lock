@@ -1542,9 +1542,9 @@ electron-dl@^1.2.0:
     pupa "^1.0.0"
     unused-filename "^1.0.0"
 
-electron-dl@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.npmjs.org/electron-dl/-/electron-dl-3.2.1.tgz"
+electron-dl@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/electron-dl/-/electron-dl-3.3.1.tgz#14164595bebcc636c671eb791b2a3265003f76c4"
   dependencies:
     ext-name "^5.0.0"
     pupa "^2.0.1"
