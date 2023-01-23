@@ -24,7 +24,7 @@
     "start": "electron ."
   },
   "dependencies": {
-    "acorn": "^8.5.0",
+    "acorn": "^8.8.2",
     "auto-launch": "^5.0.1",
     "decode-uri-component": "^0.2.0",
     "electron-context-menu": "^0.9.0",
